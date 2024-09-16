@@ -6,6 +6,7 @@
   
 </div>
 <br>
+
 ### What is Fine-tuning?
 
 Fine-tuning is a machine learning technique where a pre-trained model is further trained (or fine-tuned) on a new dataset, usually smaller and domain-specific, to adapt it to a particular task. In this process, the pre-trained model retains the knowledge it has learned during its initial training and applies that to the new task, often with fewer resources and training time compared to training a model from scratch.
@@ -49,6 +50,7 @@ Fine-tuning is popular in NLP, computer vision, and other AI fields, especially 
 
 <div align="center"> 
 <br>
+  
 # Projects 
 </div>
 
@@ -165,7 +167,6 @@ Fine-tuning is popular in NLP, computer vision, and other AI fields, especially 
       <i>...</i><br>
     </td>
   </tr>
-
 </table>
 </div>
 
