@@ -173,6 +173,12 @@ Fine-tuning is popular in NLP, computer vision, and other AI fields, especially 
 
 <hr>
 
+### Related Repositories
+
+**[`LLMs from Scratch`](https://github.com/zeyadusf/LLMs-from-Scratch)**
+**[`Topics in NLP and LLMs`](https://github.com/zeyadusf/topics-in-nlp-llm)**
+
+<hr>
 
 ## 📞 Contact :
 
