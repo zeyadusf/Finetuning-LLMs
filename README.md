@@ -162,7 +162,7 @@ Fine-tuning is popular in NLP, computer vision, and other AI fields, especially 
     <td><a href="https://github.com/zeyadusf/Text2Pandas">Text2Pandas</a></td>
     <td><a href="https://www.kaggle.com/zeyadusf/text-2-pandas-t5">Text2Pandas|T5</a></td>
     <td><a href="https://huggingface.co/zeyadusf/text2pandas-T5">text2pandas-T5 </a></td>
-    <td><a href=https://huggingface.co/spaces/zeyadusf/Text2Pandas">Text2Pandas</a></td>
+    <td><a href="https://huggingface.co/spaces/zeyadusf/Text2Pandas">Text2Pandas</a></td>
     <td>
       <i>Take a look at the repo.</i><br>
     </td>
